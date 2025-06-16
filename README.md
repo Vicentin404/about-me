@@ -46,7 +46,7 @@ Você pode visualizar o site diretamente via GitHub Pages:
 ## 📫 Contato
 
 - 📧 Email: maycondias@icloud.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vicentin94/) | [GitHub](https://github.com/Vicentin404)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vicentin94/) | [Instagram](https://www.instagram.com/vicentin_404/)
 
 ## 📄 Licença
 
